@@ -25,7 +25,7 @@ void shuffle(int arr[], int len)
 int main() 
 {
   srand(time(0));
-  int nums[] = {40, 54, 67, 78, 24, 2, 876, 43, 2453, 466, 13};
+  int nums[] = {40, 54, 67, 78, 24, 2, 876, 43, 2453, 466, 13, 7};
   int len = sizeof(nums) / 4;
   long long int count = 0;
 
